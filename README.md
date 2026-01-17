@@ -4,7 +4,7 @@ Research paper exploring the integration of AI and deep learning techniques to e
 
 **Authors:** Le Minh Nguyen, Riaa Sehgal  
 **Date:** 2024  
-**Course:** CPU Architecture and Assembly (SYST 27198)
+**Course:** CPU Architecture and Assembly
 
 ## Abstract
 
